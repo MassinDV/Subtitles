@@ -8,6 +8,5 @@
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Turk",DEFAULT=NO,AUTOSELECT=NO,FORCED=NO,LANGUAGE="ko",URI="https://raw.githubusercontent.com/MassinDV/Subtitles/main/tt7737786/ar/vet.m3u8"
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Русский",DEFAULT=NO,AUTOSELECT=NO,FORCED=NO,LANGUAGE="ru",URI="https://p-events-delivery.akamaized.net/2109isftrwvmiekgrjkbbhxhfbkxjkoj/vod2/cc/ru/ru.m3u8"
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="简体中文",DEFAULT=NO,AUTOSELECT=NO,FORCED=NO,LANGUAGE="zh",URI="https://p-events-delivery.akamaized.net/2109isftrwvmiekgrjkbbhxhfbkxjkoj/vod2/cc/zh/zh.m3u8"
-
 #EXT-X-STREAM-INF:BANDWIDTH=23273888,AVERAGE-BANDWIDTH=10751661,VIDEO-RANGE=SDR,CODECS="hvc1.2.4.H150.B0,mp4a.40.2",RESOLUTION=3840x2160,FRAME-RATE=29.970,AUDIO="english_128",SUBTITLES="subs"
 https://admvta.cdn.mgmlcdn.com/vod/_definst_/smil:2021-03-10/vidLRKoCEw73b.smil/chunklist_b6353571.m3u8
